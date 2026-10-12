@@ -1,0 +1,251 @@
+field_id,region,area_hectares,crop
+F_001,Eastern Highlands,38.9,SOYBEAN
+F_002,Western Coast,49.3,Wheat
+F_003,Central Plains,102.9,Maize
+F_004,Central Plains,41.4,Soy
+F_005,North Valley,24.5,SOYBEAN
+F_006,North Valley,69.0,Maize
+F_007,North Valley,112.7,Barley
+F_008,Southern Basin,85.0,Soybean
+F_009,Central Plains,70.6,Barley
+F_010,Central Plains,16.2,Soybean
+F_011,North Valley,75.7, Wheat 
+F_012,Western Coast,118.9, wheat
+F_013,Southern Basin,21.1,Barley
+F_014,North Valley,64.6,Soybean
+F_015,North Valley,105.9,maize
+F_016,North Valley,90.2,Maize
+F_017,Eastern Highlands,85.2,Wheat
+F_018,Central Plains,85.8,Soybean
+F_019,Eastern Highlands,46.3,Barley
+F_020,Eastern Highlands,38.8,Maize
+F_021,Central Plains,98.1,WHEAT
+F_022,North Valley,98.2,Wheat
+F_023,Eastern Highlands,104.7,BARLEY
+F_024,Eastern Highlands,110.0,Soybean
+F_025,Central Plains,63.8,Soybean
+F_026,Southern Basin,62.7,WHEAT
+F_027,North Valley,96.8, wheat
+F_028,Central Plains,79.7,Maize
+F_029,Central Plains,85.7,Maize
+F_030,North Valley,96.5,Soybean
+F_031,Central Plains,107.4,Soybean
+F_032,North Valley,43.9,Barley
+F_033,North Valley,48.2,Barley
+F_034,Western Coast,15.8, wheat
+F_035,Western Coast,71.5, Soybean 
+F_036,Southern Basin,9.1,Barley
+F_037,Eastern Highlands,58.5,Soybean
+F_038,North Valley,67.4,Maize
+F_039,Central Plains,38.0,Wheat
+F_040,Eastern Highlands,72.9,Maize
+F_041,North Valley,8.5, Barley 
+F_042,Central Plains,9.3,Wheat
+F_043,North Valley,99.6,Maize
+F_044,Western Coast,46.4,Soybean
+F_045,Eastern Highlands,19.6,wheat
+F_046,Central Plains,65.1,Wheat
+F_047,Eastern Highlands,93.5,Maize
+F_048,Central Plains,29.8,Soybean
+F_049,Central Plains,76.6,Wheat
+F_050,North Valley,14.8,Soybean
+F_051,Western Coast,10.9,Wheat
+F_052,Southern Basin,66.1, Soybean 
+F_053,Western Coast,67.2,Wheat
+F_054,Southern Basin,78.3,Wheat
+F_055,Central Plains,88.5,Soybean
+F_056,Western Coast,117.2,Wheat
+F_057,North Valley,64.4,Maize
+F_058,North Valley,42.1,Maize
+F_059,North Valley,96.4,Soybean
+F_060,Eastern Highlands,36.1,WHEAT
+F_061,Eastern Highlands,55.5,Soybean
+F_062,Eastern Highlands,14.0,Maize
+F_063,Southern Basin,7.9,MAIZE
+F_064,Eastern Highlands,115.7,Maize
+F_065,Eastern Highlands,101.1,Wheat
+F_066,Central Plains,85.0,Wheat
+F_067,North Valley,52.0,Wheat
+F_068,Southern Basin,24.9,Wheat
+F_069,North Valley,23.0,barley
+F_070,Western Coast,33.8,Maize
+F_071,Southern Basin,68.2,Wheat
+F_072,North Valley,87.2,soybean
+F_073,North Valley,80.9, wheat
+F_074,Southern Basin,37.2,Wheat
+F_075,Central Plains,114.8,Soybean
+F_076,Central Plains,89.9,Barley
+F_077,Southern Basin,68.8,Maize
+F_078,North Valley,75.3,Barley
+F_079,Eastern Highlands,53.3,Wheat
+F_080,North Valley,33.5,Maize
+F_081,Southern Basin,45.9, wheat
+F_082,Central Plains,92.2,Barley
+F_083,Eastern Highlands,6.7,WHEAT
+F_084,North Valley,18.3, Maize 
+F_085,Eastern Highlands,10.3,Wheat
+F_086,Eastern Highlands,9.7,Maize
+F_087,Central Plains,103.4,Maize
+F_088,Central Plains,85.9,Maize
+F_089,Southern Basin,59.5,Maize
+F_090,Central Plains,16.3,Maize
+F_091,North Valley,61.5,maize
+F_092,Central Plains,59.4,Wheat
+F_093,Southern Basin,24.9, Maize 
+F_094,Central Plains,54.9,Maize
+F_095,Southern Basin,50.8,SOYBEAN
+F_096,Central Plains,75.8,Wheat
+F_097,Central Plains,78.0,SOYBEAN
+F_098,Eastern Highlands,10.2,Maize
+F_099,North Valley,48.1,Maize
+F_100,North Valley,77.0,Maize
+F_101,North Valley,62.9,maize
+F_102,Central Plains,103.5,Maize
+F_103,Eastern Highlands,80.7, Maize 
+F_104,Central Plains,23.7,Maize
+F_105,Western Coast,13.1, Maize 
+F_106,North Valley,78.9, Wheat 
+F_107,Eastern Highlands,8.0,maize
+F_108,Southern Basin,72.4,Wheat
+F_109,North Valley,113.1,Wheat
+F_110,North Valley,71.2,soybean
+F_111,Eastern Highlands,49.6,Maize
+F_112,North Valley,79.0,Soybean
+F_113,Western Coast,57.7,Wheat
+F_114,Southern Basin,67.7,Maize
+F_115,Central Plains,113.3,Soybean
+F_116,Southern Basin,49.4,Barley
+F_117,Southern Basin,115.5, Maize 
+F_118,North Valley,109.1, Maize 
+F_119,Southern Basin,27.5,Soybean
+F_120,Central Plains,13.0,Soybean
+F_121,Southern Basin,16.6,Maize
+F_122,Southern Basin,7.1,Corn
+F_123,Eastern Highlands,15.9,Wheat
+F_124,North Valley,83.5,Wheat
+F_125,North Valley,13.2,wheat
+F_126,Eastern Highlands,41.7, Wheat 
+F_127,Southern Basin,102.2,Wheat
+F_128,Southern Basin,7.7,Soybean
+F_129,North Valley,98.7,maize
+F_130,Central Plains,37.4,Corn
+F_131,Eastern Highlands,18.6,Soy
+F_132,North Valley,85.1,Soybean
+F_133,North Valley,77.3,wheat
+F_134,Eastern Highlands,105.9,WHEAT
+F_135,Western Coast,89.5,Maize
+F_136,Eastern Highlands,97.4, Wheat 
+F_137,Central Plains,37.4,Wheat
+F_138,Central Plains,25.4,Corn
+F_139,Eastern Highlands,91.3,MAIZE
+F_140,Western Coast,97.8, wheat
+F_141,Western Coast,118.9,Maize
+F_142,Eastern Highlands,52.5,Maize
+F_143,Central Plains,47.8,Maize
+F_144,Eastern Highlands,94.3,Maize
+F_145,Eastern Highlands,44.2,Maize
+F_146,North Valley,112.0, Soybean 
+F_147,Central Plains,103.7, wheat
+F_148,Central Plains,54.3,Soybean
+F_149,North Valley,91.4,soybean
+F_150,Eastern Highlands,91.8,WHEAT
+F_151,Western Coast,16.9, Maize 
+F_152,North Valley,108.8,wheat
+F_153,North Valley,63.1, Wheat 
+F_154,Central Plains,100.0,Soybean
+F_155,Western Coast,41.8,Wheat
+F_156,North Valley,108.0,Maize
+F_157,Central Plains,49.8,Maize
+F_158,Southern Basin,6.2, wheat
+F_159,North Valley,109.1, wheat
+F_160,Central Plains,15.5, wheat
+F_161,Eastern Highlands,41.7,Wheat
+F_162,Central Plains,114.3,Barley
+F_163,Central Plains,114.3,Wheat
+F_164,Central Plains,70.9,Maize
+F_165,North Valley,77.7,Maize
+F_166,Southern Basin,56.6,Maize
+F_167,Eastern Highlands,38.7,Corn
+F_168,North Valley,42.8,Maize
+F_169,North Valley,82.3,Maize
+F_170,Central Plains,91.5,MAIZE
+F_171,Central Plains,96.0,Maize
+F_172,North Valley,95.8,Soybean
+F_173,Central Plains,15.5,Maize
+F_174,North Valley,61.9,Wheat
+F_175,Central Plains,11.6,Wheat
+F_176,North Valley,68.2,barley
+F_177,Central Plains,55.8,Corn
+F_178,Eastern Highlands,107.1,Wheat
+F_179,Western Coast,45.4,Barley
+F_180,North Valley,18.5,Soy
+F_181,Eastern Highlands,21.4,SOYBEAN
+F_182,North Valley,92.6,Maize
+F_183,Western Coast,76.1,Maize
+F_184,Southern Basin,16.6,Soybean
+F_185,Eastern Highlands,14.7, Barley 
+F_186,Central Plains,85.6, wheat
+F_187,Southern Basin,13.4,wheat
+F_188,Central Plains,99.5,Maize
+F_189,Central Plains,86.2,SOYBEAN
+F_190,North Valley,14.4,Maize
+F_191,North Valley,14.8,Corn
+F_192,Southern Basin,118.5,Wheat
+F_193,Western Coast,48.0,Wheat
+F_194,Central Plains,47.6,Maize
+F_195,Eastern Highlands,98.5, Maize 
+F_196,Eastern Highlands,113.9,wheat
+F_197,Central Plains,118.4,MAIZE
+F_198,Southern Basin,91.6,Wheat
+F_199,Southern Basin,48.3,Maize
+F_200,Southern Basin,14.6,Wheat
+F_201,Central Plains,94.4,Wheat
+F_202,North Valley,69.2,Maize
+F_203,North Valley,53.8, Maize 
+F_204,Southern Basin,109.2,Maize
+F_205,Central Plains,17.8,Maize
+F_206,North Valley,61.7,Barley
+F_207,North Valley,6.3,Maize
+F_208,Central Plains,58.9,soybean
+F_209,North Valley,11.5, Maize 
+F_210,North Valley,18.7,Soybean
+F_211,Central Plains,18.5,SOYBEAN
+F_212,Central Plains,79.7,Wheat
+F_213,Central Plains,90.8, wheat
+F_214,North Valley,72.1,Wheat
+F_215,Central Plains,115.6,Corn
+F_216,North Valley,48.1,Barley
+F_217,Eastern Highlands,37.9,Soybean
+F_218,Central Plains,104.9,Barley
+F_219,Central Plains,30.7,Maize
+F_220,Southern Basin,115.8,Soybean
+F_221,Central Plains,6.4,Barley
+F_222,Central Plains,116.5,Maize
+F_223,North Valley,10.0,Maize
+F_224,Eastern Highlands,107.5, Soybean 
+F_225,Eastern Highlands,65.7,wheat
+F_226,North Valley,119.2,Soy
+F_227,Western Coast,13.5,Maize
+F_228,Eastern Highlands,68.7,soybean
+F_229,Southern Basin,116.5,Maize
+F_230,Central Plains,65.2,Maize
+F_231,Southern Basin,77.4,Maize
+F_232,Central Plains,85.0,Soybean
+F_233,Central Plains,57.3,SOYBEAN
+F_234,Central Plains,77.2,wheat
+F_235,North Valley,72.2,Wheat
+F_236,Central Plains,108.6,Soybean
+F_237,Eastern Highlands,10.2,Wheat
+F_238,North Valley,37.3,Soybean
+F_239,Central Plains,114.3, wheat
+F_240,North Valley,107.4,Wheat
+F_241,Western Coast,57.4,Wheat
+F_242,Western Coast,76.3,Maize
+F_243,Western Coast,36.9,Soy
+F_244,Eastern Highlands,26.6,Wheat
+F_245,North Valley,58.3,Maize
+F_246,Western Coast,45.6,SOYBEAN
+F_247,Eastern Highlands,72.1,Wheat
+F_248,Western Coast,13.9,WHEAT
+F_249,Western Coast,117.1,Barley
+F_250,Southern Basin,118.4,Wheat

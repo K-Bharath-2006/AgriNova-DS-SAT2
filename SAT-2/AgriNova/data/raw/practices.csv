@@ -1,0 +1,1026 @@
+field_id,season,irrigation_type,fertilizer_type,sowing_date
+F_132,2024,Rainfed,Biofertilizer,2024-05-24
+F_090,2024,Flood,Biofertilizer,2024-04-24
+F_112,2024,Rainfed,Biofertilizer,2024-05-22
+F_008,2024,Flood,Synthetic NPK,2024-04-05
+F_156,2022,Flood,Synthetic NPK,2022-05-18
+F_148,2023,Drip,Synthetic NPK,2023-04-17
+F_227,2022,Drip,Synthetic NPK,2022-05-08
+F_185,2022,Drip,Synthetic NPK,2021-10-06
+F_020,2021,Rainfed,Organic Compost,2021-05-15
+F_238,2021,Rainfed,Organic Compost,2021-05-10
+F_109,2021,Rainfed,Organic Compost,2020-10-21
+F_018,2023,Sprinkler,Organic Compost,2023-04-02
+F_171,2021,Drip,Synthetic NPK,2021-04-26
+F_026,2022,Rainfed,Synthetic NPK,2022-03-11
+F_212,2022,Drip,Biofertilizer,2022-03-23
+F_165,2021,Rainfed,Organic Compost,2021-05-16
+F_078,2023,Sprinkler,Synthetic NPK,2022-10-19
+F_087,2021,Flood,Organic Compost,2021-04-21
+F_210,2022,Flood,Organic Compost,2022-05-03
+F_044,2023,Drip,Biofertilizer,2023-05-18
+F_025,2021,Drip,Synthetic NPK,2021-04-03
+F_206,2023,Rainfed,Synthetic NPK,2022-10-10
+F_150,2023,Rainfed,Minimal/None,2022-10-14
+F_055,2023,Rainfed,Organic Compost,2023-04-19
+F_106,2021,Drip,Synthetic NPK,2020-10-10
+F_053,2021,Sprinkler,Organic Compost,2021-03-07
+F_194,2023,Flood,Minimal/None,2023-04-18
+F_073,2023,Drip,Synthetic NPK,2022-10-18
+F_223,2022,Sprinkler,Synthetic NPK,2022-05-03
+F_168,2023,Rainfed,Minimal/None,2023-05-23
+F_226,2024,Rainfed,Synthetic NPK,2024-05-22
+F_184,2024,Sprinkler,Synthetic NPK,2024-04-25
+F_154,2024,Flood,Synthetic NPK,2024-04-27
+F_083,2022,Rainfed,Organic Compost,2021-10-21
+F_147,2023,Flood,Organic Compost,2023-03-10
+F_191,2023,Sprinkler,Synthetic NPK,2023-05-04
+F_123,2023,Sprinkler,Synthetic NPK,2022-10-02
+F_088,2023,Sprinkler,Organic Compost,2023-04-23
+F_126,2021,Flood,Synthetic NPK,2020-10-21
+F_077,2024,Drip,Organic Compost,2024-04-24
+F_214,2022,Rainfed,Synthetic NPK,2021-10-15
+F_088,2024,Sprinkler,Synthetic NPK,2024-04-26
+F_161,2024,Rainfed,Synthetic NPK,2023-10-24
+F_110,2024,Rainfed,Minimal/None,2024-05-19
+F_205,2024,Drip,Synthetic NPK,2024-04-02
+F_209,2022,Flood,Biofertilizer,2022-05-02
+F_130,2023,Rainfed,Organic Compost,2023-04-02
+F_139,2023,Rainfed,Synthetic NPK,2023-05-04
+F_073,2022,Sprinkler,Minimal/None,2021-10-26
+F_074,2021,Flood,Synthetic NPK,2021-03-21
+F_054,2022,Sprinkler,Organic Compost,2022-03-23
+F_242,2023,Sprinkler,Biofertilizer,2023-05-25
+F_015,2024,Rainfed,Synthetic NPK,2024-05-25
+F_174,2021,Rainfed,Organic Compost,2020-10-27
+F_081,2022,Drip,Synthetic NPK,2022-03-11
+F_003,2023,Flood,Synthetic NPK,2023-04-18
+F_083,2024,Sprinkler,Biofertilizer,2023-10-11
+F_084,2023,Rainfed,Synthetic NPK,2023-05-20
+F_230,2023,Drip,Synthetic NPK,2023-04-08
+F_022,2023,Rainfed,Biofertilizer,2022-10-21
+F_084,2021,Rainfed,Synthetic NPK,2021-05-25
+F_186,2024,Sprinkler,Minimal/None,2024-03-25
+F_113,2023,Drip,Synthetic NPK,2023-03-24
+F_118,2021,Flood,Organic Compost,2021-05-23
+F_077,2022,Drip,Organic Compost,2022-04-13
+F_008,2023,Drip,Minimal/None,2023-04-24
+F_140,2023,Sprinkler,Organic Compost,2023-03-17
+F_102,2022,Drip,Biofertilizer,2022-04-02
+F_014,2023,Rainfed,Synthetic NPK,2023-05-19
+F_006,2024,Rainfed,Synthetic NPK,2024-05-25
+F_202,2022,Sprinkler,Organic Compost,2022-05-25
+F_121,2022,Sprinkler,Biofertilizer,2022-04-09
+F_001,2024,Sprinkler,Synthetic NPK,2024-05-08
+F_058,2024,Drip,Biofertilizer,2024-05-04
+F_089,2024,Drip,Biofertilizer,2024-04-14
+F_169,2022,Rainfed,Biofertilizer,2022-05-12
+F_190,2021,Sprinkler,Biofertilizer,2021-05-25
+F_211,2024,Sprinkler,Synthetic NPK,2024-04-24
+F_167,2024,Rainfed,Organic Compost,2024-05-09
+F_054,2024,Sprinkler,Biofertilizer,2024-03-24
+F_159,2023,Rainfed,Synthetic NPK,2022-10-12
+F_080,2023,Rainfed,Synthetic NPK,2023-05-10
+F_247,2023,Rainfed,Synthetic NPK,2022-10-10
+F_089,2021,Flood,Synthetic NPK,2021-04-20
+F_179,2024,Rainfed,Biofertilizer,2024-03-18
+F_099,2023,Rainfed,Synthetic NPK,2023-05-05
+F_050,2023,Flood,Biofertilizer,2023-05-27
+F_149,2023,Rainfed,Organic Compost,2023-05-01
+F_216,2024,Rainfed,Organic Compost,2023-10-24
+F_232,2021,Flood,Biofertilizer,2021-04-02
+F_010,2024,Drip,Minimal/None,2024-04-05
+F_198,2023,Sprinkler,Synthetic NPK,2023-03-27
+F_079,2023,Rainfed,Synthetic NPK,2022-10-08
+F_191,2022,Sprinkler,Biofertilizer,2022-05-26
+F_146,2021,Drip,Synthetic NPK,2021-05-09
+F_017,2023,Sprinkler,Organic Compost,2022-10-14
+F_180,2022,Rainfed,Synthetic NPK,2022-05-11
+F_017,2024,Sprinkler,Organic Compost,2023-10-08
+F_074,2023,Flood,Synthetic NPK,2023-03-16
+F_231,2022,Flood,Synthetic NPK,2022-04-18
+F_117,2021,Drip,Organic Compost,2021-04-23
+F_027,2024,Rainfed,Synthetic NPK,2023-10-25
+F_158,2022,Flood,Organic Compost,2022-03-27
+F_145,2021,Sprinkler,Organic Compost,2021-05-25
+F_064,2023,Sprinkler,Synthetic NPK,2023-05-03
+F_181,2024,Flood,Biofertilizer,2024-05-08
+F_233,2022,Drip,Synthetic NPK,2022-04-03
+F_135,2024,Drip,Biofertilizer,2024-05-11
+F_229,2024,Flood,Biofertilizer,2024-04-21
+F_132,2022,Drip,Synthetic NPK,2022-05-15
+F_136,2024,Sprinkler,Minimal/None,2023-10-04
+F_189,2023,Sprinkler,Minimal/None,2023-04-07
+F_026,2021,Drip,Biofertilizer,2021-03-21
+F_023,2021,Sprinkler,Synthetic NPK,2020-10-03
+F_016,2024,Rainfed,Synthetic NPK,2024-05-21
+F_213,2021,Drip,Synthetic NPK,2021-03-17
+F_224,2022,Sprinkler,Organic Compost,2022-05-17
+F_035,2024,Rainfed,Synthetic NPK,2024-05-26
+F_151,2024,Sprinkler,Synthetic NPK,2024-05-13
+F_156,2021,Rainfed,Synthetic NPK,2021-05-22
+F_136,2023,Rainfed,Synthetic NPK,2022-10-24
+F_124,2023,Sprinkler,Minimal/None,2022-10-19
+F_148,2022,Rainfed,Organic Compost,2022-04-03
+F_028,2022,Flood,Minimal/None,2022-04-10
+F_241,2023,Flood,Biofertilizer,2023-03-16
+F_062,2024,Rainfed,Synthetic NPK,2024-05-08
+F_231,2023,Flood,Synthetic NPK,2023-04-14
+F_175,2022,Sprinkler,Minimal/None,2022-03-11
+F_122,2023,Rainfed,Synthetic NPK,2023-04-08
+F_035,2021,Sprinkler,Organic Compost,2021-05-09
+F_234,2021,Rainfed,Organic Compost,2021-03-14
+F_173,2021,Flood,Synthetic NPK,2021-04-11
+F_190,2023,Sprinkler,Synthetic NPK,2023-05-20
+F_040,2023,Rainfed,Synthetic NPK,2023-05-15
+F_124,2022,Rainfed,Minimal/None,2021-10-12
+F_126,2022,Sprinkler,Minimal/None,2021-10-10
+F_171,2023,Rainfed,Organic Compost,2023-04-01
+F_244,2022,Drip,Minimal/None,2021-10-15
+F_065,2021,Flood,Minimal/None,2020-10-22
+F_184,2023,Flood,Synthetic NPK,2023-04-21
+F_215,2022,Sprinkler,Synthetic NPK,2022-04-22
+F_240,2024,Drip,Synthetic NPK,2023-10-08
+F_155,2022,Sprinkler,Synthetic NPK,2022-03-24
+F_246,2024,Sprinkler,Biofertilizer,2024-05-05
+F_226,2022,Rainfed,Synthetic NPK,2022-05-23
+F_053,2023,Rainfed,Synthetic NPK,2023-03-24
+F_043,2021,Drip,Synthetic NPK,2021-05-23
+F_235,2024,Rainfed,Minimal/None,2023-10-23
+F_111,2021,Rainfed,Synthetic NPK,2021-05-02
+F_236,2021,Flood,Organic Compost,2021-04-23
+F_137,2022,Sprinkler,Synthetic NPK,2022-03-13
+F_014,2024,Flood,Biofertilizer,2024-05-02
+F_031,2021,Flood,Organic Compost,2021-04-07
+F_155,2021,Drip,Biofertilizer,2021-03-23
+F_007,2022,Flood,Organic Compost,2021-10-07
+F_019,2021,Drip,Synthetic NPK,2020-10-04
+F_134,2021,Flood,Synthetic NPK,2020-10-09
+F_012,2021,Flood,Synthetic NPK,2021-03-24
+F_075,2021,Flood,Biofertilizer,2021-04-10
+F_050,2024,Drip,Organic Compost,2024-05-11
+F_189,2022,Drip,Synthetic NPK,2022-04-24
+F_199,2022,Rainfed,Organic Compost,2022-04-06
+F_122,2022,Flood,Synthetic NPK,2022-04-19
+F_053,2022,Flood,Synthetic NPK,2022-03-24
+F_067,2022,Sprinkler,Organic Compost,2021-10-22
+F_095,2022,Flood,Organic Compost,2022-04-05
+F_224,2023,Rainfed,Organic Compost,2023-05-02
+F_198,2021,Rainfed,Organic Compost,2021-03-05
+F_133,2021,Rainfed,Synthetic NPK,2020-10-22
+F_113,2024,Sprinkler,Minimal/None,2024-03-09
+F_149,2024,Sprinkler,Organic Compost,2024-05-08
+F_187,2022,Drip,Organic Compost,2022-03-22
+F_242,2022,Sprinkler,Organic Compost,2022-05-10
+F_132,2023,Sprinkler,Synthetic NPK,2023-05-17
+F_077,2023,Drip,Synthetic NPK,2023-04-01
+F_080,2024,Drip,Synthetic NPK,2024-05-08
+F_016,2021,Rainfed,Synthetic NPK,2021-05-27
+F_121,2023,Rainfed,Synthetic NPK,2023-04-24
+F_214,2023,Sprinkler,Synthetic NPK,2022-10-14
+F_154,2024,Flood,Synthetic NPK,2024-04-27
+F_136,2022,Flood,Biofertilizer,2021-10-05
+F_108,2021,Drip,Synthetic NPK,2021-03-16
+F_047,2021,Rainfed,Biofertilizer,2021-05-06
+F_221,2022,Sprinkler,Synthetic NPK,2022-03-15
+F_246,2023,Sprinkler,Biofertilizer,2023-05-11
+F_150,2024,Drip,Synthetic NPK,2023-10-02
+F_227,2023,Flood,Biofertilizer,2023-05-27
+F_195,2023,Sprinkler,Organic Compost,2023-05-06
+F_066,2022,Flood,Synthetic NPK,2022-03-20
+F_086,2023,Drip,Synthetic NPK,2023-05-04
+F_131,2023,Rainfed,Minimal/None,2023-05-06
+F_060,2022,Sprinkler,Synthetic NPK,2021-10-12
+F_028,2023,Sprinkler,Synthetic NPK,2023-04-01
+F_125,2022,Flood,Synthetic NPK,2021-10-17
+F_130,2021,Sprinkler,Organic Compost,2021-04-26
+F_091,2022,Rainfed,Organic Compost,2022-05-22
+F_108,2022,Rainfed,Biofertilizer,2022-03-06
+F_076,2021,Drip,Organic Compost,2021-03-08
+F_070,2022,Drip,Synthetic NPK,2022-05-09
+F_066,2021,Flood,Biofertilizer,2021-03-14
+F_209,2021,Rainfed,Synthetic NPK,2021-05-11
+F_200,2021,Sprinkler,Synthetic NPK,2021-03-12
+F_162,2021,Sprinkler,Organic Compost,2021-03-03
+F_102,2021,Rainfed,Biofertilizer,2021-04-05
+F_211,2023,Sprinkler,Synthetic NPK,2023-04-01
+F_209,2024,Drip,Synthetic NPK,2024-05-07
+F_035,2022,Flood,Minimal/None,2022-05-04
+F_134,2023,Rainfed,Organic Compost,2022-10-22
+F_124,2024,Flood,Synthetic NPK,2023-10-13
+F_062,2021,Rainfed,Biofertilizer,2021-05-16
+F_193,2023,Flood,Synthetic NPK,2023-03-11
+F_133,2023,Rainfed,Synthetic NPK,2022-10-26
+F_144,2021,Flood,Synthetic NPK,2021-05-19
+F_207,2024,Rainfed,Synthetic NPK,2024-05-06
+F_103,2024,Flood,Synthetic NPK,2024-05-20
+F_180,2021,Drip,Organic Compost,2021-05-20
+F_110,2021,Rainfed,Synthetic NPK,2021-05-20
+F_215,2024,Sprinkler,Synthetic NPK,2024-04-26
+F_203,2021,Rainfed,Synthetic NPK,2021-05-09
+F_093,2024,Sprinkler,Minimal/None,2024-04-25
+F_020,2023,Rainfed,Synthetic NPK,2023-05-11
+F_008,2022,Sprinkler,Synthetic NPK,2022-04-15
+F_096,2021,Drip,Synthetic NPK,2021-03-22
+F_071,2021,Drip,Synthetic NPK,2021-03-17
+F_075,2024,Flood,Synthetic NPK,2024-04-01
+F_166,2023,Sprinkler,Organic Compost,2023-04-16
+F_164,2024,Flood,Synthetic NPK,2024-04-06
+F_078,2022,Rainfed,Minimal/None,2021-10-11
+F_042,2022,Sprinkler,Minimal/None,2022-03-02
+F_145,2023,Rainfed,Organic Compost,2023-05-19
+F_045,2023,Rainfed,Organic Compost,2022-10-21
+F_050,2024,Sprinkler,Organic Compost,2024-05-11
+F_017,2022,Drip,Synthetic NPK,2021-10-12
+F_036,2022,Drip,Organic Compost,2022-03-01
+F_117,2024,Flood,Synthetic NPK,2024-04-14
+F_098,2021,Rainfed,Organic Compost,2021-05-20
+F_213,2022,Flood,Synthetic NPK,2022-03-19
+F_107,2022,Rainfed,Minimal/None,2022-05-16
+F_084,2022,Drip,Organic Compost,2022-05-18
+F_172,2021,Drip,Synthetic NPK,2021-05-14
+F_222,2024,Rainfed,Synthetic NPK,2024-04-13
+F_106,2024,Flood,Synthetic NPK,2023-10-14
+F_244,2021,Rainfed,Synthetic NPK,2020-10-06
+F_056,2022,Flood,Biofertilizer,2022-03-17
+F_069,2024,Drip,Minimal/None,2023-10-25
+F_059,2024,Sprinkler,Organic Compost,2024-05-12
+F_082,2024,Rainfed,Synthetic NPK,2024-03-23
+F_049,2021,Sprinkler,Synthetic NPK,2021-03-02
+F_133,2022,Sprinkler,Synthetic NPK,2021-10-13
+F_013,2022,Flood,Synthetic NPK,2022-03-05
+F_248,2023,Sprinkler,Biofertilizer,2023-03-15
+F_001,2023,Rainfed,Organic Compost,2023-05-23
+F_236,2021,Flood,Organic Compost,2021-04-23
+F_197,2024,Drip,Minimal/None,2024-04-10
+F_232,2023,Rainfed,Biofertilizer,2023-04-11
+F_063,2022,Flood,Synthetic NPK,2022-04-08
+F_139,2021,Rainfed,Synthetic NPK,2021-05-13
+F_238,2022,Rainfed,Synthetic NPK,2022-05-07
+F_001,2023,Sprinkler,Organic Compost,2023-05-23
+F_024,2023,Drip,Biofertilizer,2023-05-20
+F_009,2022,Sprinkler,Organic Compost,2022-03-24
+F_065,2024,Rainfed,Organic Compost,2023-10-03
+F_052,2021,Sprinkler,Organic Compost,2021-04-15
+F_087,2023,Sprinkler,Synthetic NPK,2023-04-09
+F_149,2022,Rainfed,Organic Compost,2022-05-08
+F_083,2021,Sprinkler,Biofertilizer,2020-10-15
+F_020,2022,Rainfed,Synthetic NPK,2022-05-03
+F_022,2021,Rainfed,Synthetic NPK,2020-10-20
+F_105,2024,Sprinkler,Synthetic NPK,2024-05-05
+F_021,2023,Flood,Organic Compost,2023-03-15
+F_093,2023,Sprinkler,Organic Compost,2023-04-07
+F_235,2021,Drip,Organic Compost,2020-10-25
+F_224,2024,Rainfed,Synthetic NPK,2024-05-25
+F_134,2024,Flood,Synthetic NPK,2023-10-07
+F_096,2023,Drip,Synthetic NPK,2023-03-04
+F_180,2023,Sprinkler,Biofertilizer,2023-05-01
+F_075,2023,Flood,Synthetic NPK,2023-04-09
+F_002,2022,Drip,Organic Compost,2022-03-26
+F_108,2023,Flood,Organic Compost,2023-03-09
+F_152,2021,Sprinkler,Biofertilizer,2020-10-02
+F_025,2022,Sprinkler,Organic Compost,2022-04-14
+F_072,2023,Flood,Biofertilizer,2023-05-27
+F_096,2022,Flood,Organic Compost,2022-03-25
+F_223,2023,Rainfed,Synthetic NPK,2023-05-27
+F_071,2022,Sprinkler,Biofertilizer,2022-03-20
+F_067,2023,Rainfed,Biofertilizer,2022-10-01
+F_113,2021,Drip,Synthetic NPK,2021-03-15
+F_177,2024,Drip,Minimal/None,2024-04-13
+F_081,2024,Sprinkler,Synthetic NPK,2024-03-27
+F_103,2021,Flood,Synthetic NPK,2021-05-27
+F_225,2023,Rainfed,Organic Compost,2022-10-03
+F_135,2023,Sprinkler,Organic Compost,2023-05-10
+F_030,2023,Rainfed,Organic Compost,2023-05-12
+F_174,2022,Flood,Minimal/None,2021-10-11
+F_063,2023,Sprinkler,Synthetic NPK,2023-04-16
+F_167,2021,Flood,Biofertilizer,2021-05-09
+F_167,2023,Sprinkler,Biofertilizer,2023-05-22
+F_003,2022,Rainfed,Minimal/None,2022-04-08
+F_050,2021,Flood,Synthetic NPK,2021-05-12
+F_179,2021,Sprinkler,Synthetic NPK,2021-03-07
+F_021,2022,Drip,Biofertilizer,2022-03-17
+F_146,2024,Flood,Organic Compost,2024-05-05
+F_127,2024,Sprinkler,Minimal/None,2024-03-19
+F_168,2021,Rainfed,Synthetic NPK,2021-05-13
+F_060,2024,Rainfed,Organic Compost,2023-10-06
+F_079,2021,Sprinkler,Synthetic NPK,2020-10-08
+F_053,2024,Flood,Synthetic NPK,2024-03-07
+F_216,2022,Sprinkler,Synthetic NPK,2021-10-11
+F_119,2023,Flood,Biofertilizer,2023-04-04
+F_120,2024,Sprinkler,Synthetic NPK,2024-04-05
+F_057,2024,Flood,Organic Compost,2024-05-10
+F_228,2023,Sprinkler,Organic Compost,2023-05-17
+F_091,2023,Rainfed,Biofertilizer,2023-05-26
+F_242,2024,Drip,Synthetic NPK,2024-05-14
+F_045,2022,Sprinkler,Organic Compost,2021-10-01
+F_222,2021,Sprinkler,Organic Compost,2021-04-06
+F_235,2023,Rainfed,Organic Compost,2022-10-11
+F_125,2024,Drip,Synthetic NPK,2023-10-20
+F_170,2024,Drip,Organic Compost,2024-04-15
+F_121,2024,Sprinkler,Synthetic NPK,2024-04-23
+F_002,2024,Rainfed,Synthetic NPK,2024-03-22
+F_039,2024,Drip,Synthetic NPK,2024-03-22
+F_140,2022,Drip,Synthetic NPK,2022-03-02
+F_167,2022,Rainfed,Synthetic NPK,2022-05-23
+F_129,2022,Drip,Synthetic NPK,2022-05-18
+F_107,2021,Rainfed,Synthetic NPK,2021-05-20
+F_200,2024,Flood,Organic Compost,2024-03-09
+F_147,2021,Drip,Synthetic NPK,2021-03-23
+F_090,2022,Flood,Synthetic NPK,2022-04-14
+F_150,2021,Flood,Synthetic NPK,2020-10-14
+F_240,2023,Sprinkler,Synthetic NPK,2022-10-12
+F_147,2022,Flood,Organic Compost,2022-03-22
+F_112,2022,Rainfed,Synthetic NPK,2022-05-09
+F_213,2024,Sprinkler,Synthetic NPK,2024-03-17
+F_151,2022,Flood,Synthetic NPK,2022-05-23
+F_183,2021,Flood,Synthetic NPK,2021-05-15
+F_120,2023,Rainfed,Organic Compost,2023-04-14
+F_225,2021,Rainfed,Biofertilizer,2020-10-26
+F_058,2021,Drip,Synthetic NPK,2021-05-17
+F_217,2023,Sprinkler,Synthetic NPK,2023-05-01
+F_188,2022,Sprinkler,Organic Compost,2022-04-22
+F_054,2021,Sprinkler,Minimal/None,2021-03-13
+F_020,2024,Sprinkler,Synthetic NPK,2024-05-19
+F_038,2021,Sprinkler,Biofertilizer,2021-05-25
+F_076,2023,Flood,Synthetic NPK,2023-03-17
+F_200,2023,Drip,Organic Compost,2023-03-03
+F_159,2022,Drip,Biofertilizer,2021-10-09
+F_131,2024,Drip,Synthetic NPK,2024-05-02
+F_092,2022,Drip,Biofertilizer,2022-03-20
+F_011,2024,Rainfed,Synthetic NPK,2023-10-03
+F_212,2023,Sprinkler,Synthetic NPK,2023-03-05
+F_034,2022,Flood,Synthetic NPK,2022-03-26
+F_142,2024,Rainfed,Organic Compost,2024-05-27
+F_078,2024,Flood,Biofertilizer,2023-10-05
+F_157,2023,Rainfed,Synthetic NPK,2023-04-19
+F_150,2022,Sprinkler,Organic Compost,2021-10-06
+F_203,2023,Rainfed,Synthetic NPK,2023-05-18
+F_001,2021,Drip,Minimal/None,2021-05-15
+F_080,2021,Rainfed,Organic Compost,2021-05-04
+F_217,2024,Rainfed,Organic Compost,2024-05-13
+F_239,2023,Flood,Minimal/None,2023-03-22
+F_138,2024,Flood,Minimal/None,2024-04-18
+F_138,2021,Sprinkler,Synthetic NPK,2021-04-15
+F_237,2024,Rainfed,Organic Compost,2023-10-27
+F_100,2023,Rainfed,Synthetic NPK,2023-05-18
+F_044,2021,Drip,Organic Compost,2021-05-15
+F_032,2022,Sprinkler,Minimal/None,2021-10-19
+F_106,2023,Rainfed,Synthetic NPK,2022-10-23
+F_113,2022,Drip,Synthetic NPK,2022-03-16
+F_147,2024,Flood,Synthetic NPK,2024-03-12
+F_232,2022,Drip,Minimal/None,2022-04-06
+F_023,2023,Rainfed,Synthetic NPK,2022-10-17
+F_241,2024,Drip,Biofertilizer,2024-03-16
+F_046,2022,Flood,Organic Compost,2022-03-13
+F_091,2024,Flood,Synthetic NPK,2024-05-19
+F_069,2023,Rainfed,Synthetic NPK,2022-10-19
+F_230,2022,Flood,Synthetic NPK,2022-04-26
+F_018,2022,Flood,Organic Compost,2022-04-19
+F_073,2024,Drip,Organic Compost,2023-10-17
+F_033,2024,Drip,Synthetic NPK,2023-10-22
+F_076,2021,Sprinkler,Organic Compost,2021-03-08
+F_114,2022,Flood,Synthetic NPK,2022-04-04
+F_082,2023,Flood,Synthetic NPK,2023-03-17
+F_037,2021,Drip,Synthetic NPK,2021-05-05
+F_137,2021,Rainfed,Organic Compost,2021-03-24
+F_241,2021,Sprinkler,Biofertilizer,2021-03-17
+F_166,2021,Drip,Organic Compost,2021-04-21
+F_034,2024,Sprinkler,Organic Compost,2024-03-24
+F_109,2024,Drip,Synthetic NPK,2023-10-25
+F_042,2021,Rainfed,Synthetic NPK,2021-03-18
+F_008,2021,Drip,Minimal/None,2021-04-25
+F_199,2021,Sprinkler,Organic Compost,2021-04-16
+F_049,2022,Rainfed,Biofertilizer,2022-03-26
+F_189,2021,Drip,Minimal/None,2021-04-25
+F_165,2022,Rainfed,Organic Compost,2022-05-26
+F_205,2022,Drip,Synthetic NPK,2022-04-20
+F_043,2022,Rainfed,Organic Compost,2022-05-16
+F_190,2024,Rainfed,Organic Compost,2024-05-17
+F_036,2021,Sprinkler,Biofertilizer,2021-03-13
+F_044,2022,Rainfed,Synthetic NPK,2022-05-23
+F_002,2023,Rainfed,Organic Compost,2023-03-07
+F_120,2021,Sprinkler,Biofertilizer,2021-04-23
+F_189,2024,Drip,Biofertilizer,2024-04-23
+F_168,2022,Rainfed,Minimal/None,2022-05-26
+F_019,2022,Rainfed,Organic Compost,2021-10-17
+F_176,2024,Rainfed,Synthetic NPK,2023-10-10
+F_111,2023,Sprinkler,Synthetic NPK,2023-05-12
+F_060,2023,Drip,Synthetic NPK,2022-10-06
+F_037,2022,Rainfed,Synthetic NPK,2022-05-22
+F_204,2022,Sprinkler,Minimal/None,2022-04-09
+F_059,2023,Rainfed,Organic Compost,2023-05-17
+F_056,2021,Sprinkler,Synthetic NPK,2021-03-01
+F_127,2023,Drip,Synthetic NPK,2023-03-14
+F_170,2023,Sprinkler,Synthetic NPK,2023-04-06
+F_034,2021,Drip,Minimal/None,2021-03-12
+F_172,2021,Drip,Synthetic NPK,2021-05-14
+F_188,2023,Flood,Synthetic NPK,2023-04-20
+F_169,2024,Rainfed,Organic Compost,2024-05-11
+F_047,2022,Flood,Biofertilizer,2022-05-23
+F_011,2022,Sprinkler,Synthetic NPK,2021-10-17
+F_158,2023,Drip,Organic Compost,2023-03-15
+F_028,2021,Flood,Organic Compost,2021-04-22
+F_164,2022,Sprinkler,Organic Compost,2022-04-22
+F_015,2021,Rainfed,Biofertilizer,2021-05-01
+F_109,2022,Rainfed,Minimal/None,2021-10-04
+F_197,2021,Flood,Biofertilizer,2021-04-14
+F_146,2022,Rainfed,Biofertilizer,2022-05-17
+F_221,2023,Flood,Minimal/None,2023-03-25
+F_007,2021,Rainfed,Synthetic NPK,2020-10-25
+F_205,2021,Flood,Synthetic NPK,2021-04-17
+F_197,2022,Rainfed,Synthetic NPK,2022-04-24
+F_137,2024,Drip,Biofertilizer,2024-03-19
+F_160,2023,Flood,Synthetic NPK,2023-03-07
+F_179,2023,Drip,Organic Compost,2023-03-21
+F_238,2023,Drip,Organic Compost,2023-05-12
+F_085,2023,Rainfed,Biofertilizer,2022-10-23
+F_013,2024,Sprinkler,Synthetic NPK,2024-03-16
+F_096,2024,Sprinkler,Synthetic NPK,2024-03-10
+F_133,2024,Flood,Organic Compost,2023-10-03
+F_236,2024,Sprinkler,Synthetic NPK,2024-04-06
+F_164,2021,Sprinkler,Organic Compost,2021-04-03
+F_067,2021,Rainfed,Synthetic NPK,2020-10-10
+F_212,2024,Sprinkler,Synthetic NPK,2024-03-10
+F_183,2024,Flood,Organic Compost,2024-05-10
+F_233,2023,Sprinkler,Synthetic NPK,2023-04-19
+F_112,2021,Sprinkler,Synthetic NPK,2021-05-01
+F_099,2024,Rainfed,Synthetic NPK,2024-05-03
+F_134,2022,Drip,Synthetic NPK,2021-10-16
+F_120,2022,Drip,Organic Compost,2022-04-16
+F_005,2023,Rainfed,Synthetic NPK,2023-05-10
+F_185,2021,Rainfed,Synthetic NPK,2020-10-25
+F_129,2023,Sprinkler,Synthetic NPK,2023-05-04
+F_246,2021,Flood,Synthetic NPK,2021-05-06
+F_116,2023,Sprinkler,Synthetic NPK,2023-03-14
+F_092,2024,Drip,Organic Compost,2024-03-13
+F_021,2024,Flood,Biofertilizer,2024-03-20
+F_016,2022,Rainfed,Synthetic NPK,2022-05-11
+F_217,2023,Drip,Synthetic NPK,2023-05-01
+F_069,2021,Drip,Synthetic NPK,2020-10-06
+F_072,2022,Drip,Synthetic NPK,2022-05-05
+F_091,2021,Flood,Synthetic NPK,2021-05-19
+F_089,2023,Drip,Synthetic NPK,2023-04-08
+F_248,2021,Sprinkler,Organic Compost,2021-03-25
+F_070,2023,Drip,Organic Compost,2023-05-14
+F_004,2021,Flood,Synthetic NPK,2021-04-17
+F_046,2023,Drip,Organic Compost,2023-03-09
+F_093,2021,Flood,Synthetic NPK,2021-04-20
+F_130,2024,Flood,Minimal/None,2024-04-14
+F_159,2024,Rainfed,Organic Compost,2023-10-22
+F_056,2024,Sprinkler,Organic Compost,2024-03-05
+F_148,2024,Flood,Biofertilizer,2024-04-03
+F_229,2022,Sprinkler,Synthetic NPK,2022-04-21
+F_175,2021,Sprinkler,Organic Compost,2021-03-27
+F_184,2021,Sprinkler,Synthetic NPK,2021-04-17
+F_117,2022,Rainfed,Biofertilizer,2022-04-14
+F_151,2023,Drip,Synthetic NPK,2023-05-06
+F_158,2021,Sprinkler,Synthetic NPK,2021-03-23
+F_045,2021,Rainfed,Minimal/None,2020-10-08
+F_172,2022,Rainfed,Organic Compost,2022-05-22
+F_224,2021,Sprinkler,Biofertilizer,2021-05-27
+F_152,2022,Sprinkler,Synthetic NPK,2021-10-14
+F_115,2021,Rainfed,Biofertilizer,2021-04-04
+F_135,2021,Drip,Biofertilizer,2021-05-07
+F_099,2022,Rainfed,Organic Compost,2022-05-12
+F_041,2024,Rainfed,Synthetic NPK,2023-10-14
+F_063,2021,Drip,Synthetic NPK,2021-04-21
+F_209,2023,Drip,Synthetic NPK,2023-05-26
+F_227,2024,Sprinkler,Synthetic NPK,2024-05-10
+F_173,2022,Flood,Biofertilizer,2022-04-11
+F_094,2024,Sprinkler,Biofertilizer,2024-04-03
+F_104,2021,Flood,Synthetic NPK,2021-04-21
+F_019,2023,Sprinkler,Organic Compost,2022-10-22
+F_029,2022,Drip,Organic Compost,2022-04-07
+F_148,2021,Sprinkler,Biofertilizer,2021-04-24
+F_207,2021,Sprinkler,Organic Compost,2021-05-14
+F_098,2023,Drip,Synthetic NPK,2023-05-07
+F_027,2021,Rainfed,Biofertilizer,2020-10-11
+F_029,2023,Drip,Synthetic NPK,2023-04-15
+F_105,2022,Drip,Organic Compost,2022-05-03
+F_243,2023,Flood,Synthetic NPK,2023-05-11
+F_115,2022,Drip,Biofertilizer,2022-04-03
+F_103,2022,Sprinkler,Synthetic NPK,2022-05-17
+F_024,2021,Sprinkler,Synthetic NPK,2021-05-14
+F_146,2023,Sprinkler,Synthetic NPK,2023-05-19
+F_023,2022,Sprinkler,Synthetic NPK,2021-10-06
+F_085,2021,Flood,Organic Compost,2020-10-22
+F_248,2023,Sprinkler,Biofertilizer,2023-03-15
+F_237,2021,Rainfed,Synthetic NPK,2020-10-11
+F_245,2021,Sprinkler,Synthetic NPK,2021-05-08
+F_223,2021,Drip,Synthetic NPK,2021-05-27
+F_157,2022,Rainfed,Minimal/None,2022-04-04
+F_154,2022,Flood,Biofertilizer,2022-04-14
+F_158,2024,Drip,Synthetic NPK,2024-03-13
+F_003,2024,Sprinkler,Biofertilizer,2024-04-03
+F_100,2021,Flood,Minimal/None,2021-05-17
+F_138,2022,Drip,Minimal/None,2022-04-26
+F_011,2023,Flood,Minimal/None,2022-10-18
+F_042,2024,Sprinkler,Organic Compost,2024-03-18
+F_105,2021,Drip,Synthetic NPK,2021-05-08
+F_195,2022,Sprinkler,Synthetic NPK,2022-05-11
+F_107,2023,Sprinkler,Organic Compost,2023-05-18
+F_227,2021,Flood,Synthetic NPK,2021-05-13
+F_247,2024,Sprinkler,Synthetic NPK,2023-10-24
+F_177,2021,Sprinkler,Biofertilizer,2021-04-10
+F_201,2023,Sprinkler,Organic Compost,2023-03-26
+F_065,2022,Sprinkler,Organic Compost,2021-10-05
+F_084,2024,Sprinkler,Synthetic NPK,2024-05-19
+F_004,2024,Drip,Synthetic NPK,2024-04-23
+F_163,2022,Flood,Synthetic NPK,2022-03-21
+F_082,2021,Rainfed,Synthetic NPK,2021-03-18
+F_219,2022,Flood,Biofertilizer,2022-04-17
+F_056,2023,Sprinkler,Synthetic NPK,2023-03-23
+F_045,2024,Rainfed,Synthetic NPK,2023-10-02
+F_197,2022,Rainfed,Synthetic NPK,2022-04-24
+F_131,2022,Drip,Minimal/None,2022-05-06
+F_006,2023,Flood,Synthetic NPK,2023-05-17
+F_090,2021,Sprinkler,Biofertilizer,2021-04-20
+F_245,2022,Sprinkler,Synthetic NPK,2022-05-10
+F_221,2024,Drip,Synthetic NPK,2024-03-16
+F_086,2021,Flood,Synthetic NPK,2021-05-08
+F_108,2024,Rainfed,Synthetic NPK,2024-03-16
+F_143,2021,Sprinkler,Synthetic NPK,2021-04-13
+F_214,2024,Sprinkler,Synthetic NPK,2023-10-13
+F_051,2024,Sprinkler,Organic Compost,2024-03-16
+F_163,2023,Sprinkler,Synthetic NPK,2023-03-06
+F_024,2022,Rainfed,Biofertilizer,2022-05-08
+F_144,2024,Flood,Organic Compost,2024-05-24
+F_018,2021,Flood,Synthetic NPK,2021-04-24
+F_215,2023,Flood,Biofertilizer,2023-04-11
+F_072,2021,Sprinkler,Synthetic NPK,2021-05-14
+F_207,2023,Rainfed,Synthetic NPK,2023-05-19
+F_109,2023,Sprinkler,Synthetic NPK,2022-10-27
+F_039,2022,Sprinkler,Synthetic NPK,2022-03-09
+F_019,2024,Rainfed,Minimal/None,2023-10-27
+F_188,2024,Drip,Organic Compost,2024-04-05
+F_112,2023,Rainfed,Organic Compost,2023-05-11
+F_048,2021,Sprinkler,Synthetic NPK,2021-04-07
+F_068,2024,Rainfed,Biofertilizer,2024-03-13
+F_060,2021,Rainfed,Organic Compost,2020-10-06
+F_122,2024,Flood,Synthetic NPK,2024-04-25
+F_140,2024,Rainfed,Organic Compost,2024-03-21
+F_030,2022,Rainfed,Synthetic NPK,2022-05-07
+F_242,2021,Rainfed,Synthetic NPK,2021-05-09
+F_129,2021,Drip,Biofertilizer,2021-05-23
+F_143,2023,Flood,Synthetic NPK,2023-04-17
+F_153,2024,Rainfed,Organic Compost,2023-10-10
+F_032,2023,Rainfed,Biofertilizer,2022-10-04
+F_030,2021,Drip,Minimal/None,2021-05-27
+F_119,2022,Flood,Synthetic NPK,2022-04-14
+F_179,2022,Rainfed,Synthetic NPK,2022-03-18
+F_015,2022,Sprinkler,Synthetic NPK,2022-05-08
+F_174,2023,Drip,Organic Compost,2022-10-23
+F_234,2023,Drip,Minimal/None,2023-03-11
+F_093,2022,Rainfed,Organic Compost,2022-04-06
+F_068,2021,Sprinkler,Synthetic NPK,2021-03-25
+F_012,2023,Drip,Synthetic NPK,2023-03-09
+F_088,2022,Flood,Biofertilizer,2022-04-25
+F_049,2024,Sprinkler,Organic Compost,2024-03-05
+F_026,2023,Drip,Synthetic NPK,2023-03-21
+F_239,2022,Flood,Biofertilizer,2022-03-27
+F_178,2024,Drip,Synthetic NPK,2023-10-21
+F_190,2022,Sprinkler,Synthetic NPK,2022-05-09
+F_066,2024,Rainfed,Organic Compost,2024-03-18
+F_111,2024,Drip,Synthetic NPK,2024-05-21
+F_174,2024,Drip,Biofertilizer,2023-10-26
+F_077,2021,Sprinkler,Organic Compost,2021-04-12
+F_086,2022,Rainfed,Biofertilizer,2022-05-01
+F_155,2023,Sprinkler,Synthetic NPK,2023-03-12
+F_249,2022,Sprinkler,Organic Compost,2022-03-16
+F_038,2022,Sprinkler,Biofertilizer,2022-05-05
+F_032,2021,Rainfed,Synthetic NPK,2020-10-23
+F_202,2024,Rainfed,Synthetic NPK,2024-05-04
+F_212,2021,Flood,Biofertilizer,2021-03-26
+F_013,2023,Drip,Organic Compost,2023-03-15
+F_089,2022,Drip,Synthetic NPK,2022-04-26
+F_238,2024,Rainfed,Synthetic NPK,2024-05-17
+F_036,2023,Sprinkler,Organic Compost,2023-03-16
+F_118,2023,Drip,Synthetic NPK,2023-05-04
+F_100,2024,Rainfed,Organic Compost,2024-05-25
+F_206,2021,Sprinkler,Organic Compost,2020-10-03
+F_081,2021,Flood,Organic Compost,2021-03-16
+F_005,2024,Rainfed,Synthetic NPK,2024-05-03
+F_243,2024,Drip,Synthetic NPK,2024-05-26
+F_203,2024,Rainfed,Minimal/None,2024-05-20
+F_208,2023,Drip,Organic Compost,2023-04-26
+F_102,2024,Flood,Synthetic NPK,2024-04-24
+F_135,2022,Rainfed,Synthetic NPK,2022-05-01
+F_181,2022,Rainfed,Synthetic NPK,2022-05-12
+F_010,2023,Rainfed,Biofertilizer,2023-04-17
+F_044,2024,Sprinkler,Synthetic NPK,2024-05-15
+F_062,2022,Sprinkler,Synthetic NPK,2022-05-16
+F_213,2023,Rainfed,Organic Compost,2023-03-09
+F_172,2024,Flood,Synthetic NPK,2024-05-06
+F_237,2023,Rainfed,Synthetic NPK,2022-10-21
+F_221,2021,Flood,Synthetic NPK,2021-03-19
+F_039,2023,Rainfed,Synthetic NPK,2023-03-11
+F_072,2024,Rainfed,Synthetic NPK,2024-05-21
+F_156,2023,Rainfed,Synthetic NPK,2023-05-12
+F_143,2022,Flood,Synthetic NPK,2022-04-22
+F_192,2021,Rainfed,Synthetic NPK,2021-03-01
+F_005,2022,Rainfed,Biofertilizer,2022-05-13
+F_032,2024,Rainfed,Synthetic NPK,2023-10-21
+F_081,2023,Drip,Synthetic NPK,2023-03-18
+F_064,2024,Rainfed,Synthetic NPK,2024-05-04
+F_170,2022,Flood,Minimal/None,2022-04-11
+F_248,2024,Flood,Minimal/None,2024-03-17
+F_048,2023,Drip,Synthetic NPK,2023-04-03
+F_029,2024,Rainfed,Synthetic NPK,2024-04-17
+F_160,2021,Sprinkler,Synthetic NPK,2021-03-09
+F_152,2023,Sprinkler,Synthetic NPK,2022-10-22
+F_046,2021,Rainfed,Minimal/None,2021-03-09
+F_076,2022,Sprinkler,Synthetic NPK,2022-03-02
+F_196,2021,Sprinkler,Synthetic NPK,2020-10-01
+F_219,2023,Sprinkler,Organic Compost,2023-04-27
+F_201,2021,Sprinkler,Synthetic NPK,2021-03-09
+F_177,2022,Flood,Synthetic NPK,2022-04-08
+F_206,2024,Rainfed,Organic Compost,2023-10-04
+F_130,2022,Flood,Organic Compost,2022-04-02
+F_078,2022,Sprinkler,Minimal/None,2021-10-11
+F_012,2022,Sprinkler,Synthetic NPK,2022-03-04
+F_236,2022,Rainfed,Minimal/None,2022-04-05
+F_040,2022,Rainfed,Biofertilizer,2022-05-17
+F_192,2022,Sprinkler,Organic Compost,2022-03-04
+F_043,2024,Sprinkler,Synthetic NPK,2024-05-08
+F_005,2021,Flood,Organic Compost,2021-05-17
+F_128,2024,Drip,Synthetic NPK,2024-04-14
+F_013,2021,Flood,Organic Compost,2021-03-10
+F_250,2023,Sprinkler,Organic Compost,2023-03-05
+F_231,2024,Rainfed,Biofertilizer,2024-04-07
+F_129,2024,Rainfed,Synthetic NPK,2024-05-08
+F_177,2023,Drip,Synthetic NPK,2023-04-27
+F_121,2021,Drip,Synthetic NPK,2021-04-12
+F_071,2024,Drip,Synthetic NPK,2024-03-03
+F_185,2024,Sprinkler,Organic Compost,2023-10-12
+F_222,2022,Flood,Organic Compost,2022-04-04
+F_057,2022,Flood,Minimal/None,2022-05-25
+F_007,2023,Drip,Synthetic NPK,2022-10-17
+F_201,2024,Flood,Biofertilizer,2024-03-27
+F_110,2022,Rainfed,Synthetic NPK,2022-05-05
+F_246,2022,Drip,Biofertilizer,2022-05-23
+F_092,2021,Flood,Synthetic NPK,2021-03-23
+F_058,2022,Drip,Organic Compost,2022-05-14
+F_010,2022,Drip,Synthetic NPK,2022-04-11
+F_249,2021,Drip,Synthetic NPK,2021-03-26
+F_094,2023,Flood,Synthetic NPK,2023-04-13
+F_118,2022,Drip,Organic Compost,2022-05-20
+F_249,2023,Flood,Synthetic NPK,2023-03-06
+F_219,2021,Sprinkler,Synthetic NPK,2021-04-26
+F_229,2023,Flood,Synthetic NPK,2023-04-04
+F_187,2023,Drip,Synthetic NPK,2023-03-17
+F_049,2023,Flood,Synthetic NPK,2023-03-21
+F_220,2021,Drip,Organic Compost,2021-04-16
+F_222,2023,Drip,Synthetic NPK,2023-04-17
+F_126,2024,Drip,Synthetic NPK,2023-10-17
+F_250,2021,Sprinkler,Biofertilizer,2021-03-07
+F_214,2021,Drip,Synthetic NPK,2020-10-25
+F_145,2024,Rainfed,Synthetic NPK,2024-05-07
+F_249,2024,Flood,Synthetic NPK,2024-03-03
+F_041,2023,Sprinkler,Organic Compost,2022-10-27
+F_181,2023,Rainfed,Minimal/None,2023-05-07
+F_039,2021,Sprinkler,Synthetic NPK,2021-03-16
+F_230,2021,Rainfed,Biofertilizer,2021-04-23
+F_181,2021,Rainfed,Synthetic NPK,2021-05-11
+F_240,2021,Rainfed,Synthetic NPK,2020-10-02
+F_028,2024,Drip,Biofertilizer,2024-04-13
+F_057,2023,Rainfed,Organic Compost,2023-05-03
+F_178,2021,Sprinkler,Minimal/None,2020-10-22
+F_026,2024,Rainfed,Organic Compost,2024-03-14
+F_106,2022,Rainfed,Organic Compost,2021-10-09
+F_105,2024,Rainfed,Synthetic NPK,2024-05-05
+F_234,2022,Drip,Biofertilizer,2022-03-04
+F_147,2023,Flood,Organic Compost,2023-03-10
+F_201,2022,Rainfed,Minimal/None,2022-03-02
+F_169,2021,Sprinkler,Synthetic NPK,2021-05-22
+F_030,2024,Sprinkler,Biofertilizer,2024-05-20
+F_014,2022,Drip,Biofertilizer,2022-05-17
+F_038,2024,Rainfed,Synthetic NPK,2024-05-11
+F_101,2024,Rainfed,Synthetic NPK,2024-05-06
+F_243,2022,Rainfed,Synthetic NPK,2022-05-10
+F_052,2024,Drip,Biofertilizer,2024-04-11
+F_165,2023,Rainfed,Biofertilizer,2023-05-10
+F_217,2022,Rainfed,Organic Compost,2022-05-03
+F_196,2024,Rainfed,Organic Compost,2023-10-20
+F_003,2021,Flood,Synthetic NPK,2021-04-21
+F_208,2022,Flood,Synthetic NPK,2022-04-24
+F_010,2021,Flood,Synthetic NPK,2021-04-21
+F_114,2021,Drip,Organic Compost,2021-04-23
+F_163,2024,Rainfed,Synthetic NPK,2024-03-04
+F_064,2022,Sprinkler,Organic Compost,2022-05-27
+F_076,2024,Rainfed,Synthetic NPK,2024-03-24
+F_192,2024,Sprinkler,Synthetic NPK,2024-03-19
+F_143,2024,Rainfed,Synthetic NPK,2024-04-26
+F_156,2024,Rainfed,Synthetic NPK,2024-05-11
+F_183,2023,Sprinkler,Biofertilizer,2023-05-04
+F_186,2021,Sprinkler,Biofertilizer,2021-03-15
+F_066,2023,Drip,Organic Compost,2023-03-03
+F_153,2023,Flood,Synthetic NPK,2022-10-23
+F_075,2022,Drip,Organic Compost,2022-04-09
+F_104,2023,Flood,Organic Compost,2023-04-26
+F_038,2023,Sprinkler,Synthetic NPK,2023-05-24
+F_203,2022,Rainfed,Synthetic NPK,2022-05-06
+F_161,2021,Rainfed,Synthetic NPK,2020-10-09
+F_228,2024,Rainfed,Organic Compost,2024-05-15
+F_138,2023,Sprinkler,Synthetic NPK,2023-04-05
+F_225,2024,Sprinkler,Synthetic NPK,2023-10-27
+F_123,2021,Drip,Synthetic NPK,2020-10-07
+F_178,2023,Sprinkler,Synthetic NPK,2022-10-07
+F_037,2024,Sprinkler,Synthetic NPK,2024-05-07
+F_037,2023,Rainfed,Organic Compost,2023-05-24
+F_186,2022,Sprinkler,Synthetic NPK,2022-03-26
+F_250,2022,Drip,Minimal/None,2022-03-08
+F_191,2021,Flood,Synthetic NPK,2021-05-23
+F_165,2024,Sprinkler,Synthetic NPK,2024-05-02
+F_088,2021,Drip,Minimal/None,2021-04-14
+F_116,2024,Flood,Minimal/None,2024-03-08
+F_082,2022,Flood,Synthetic NPK,2022-03-21
+F_047,2023,Sprinkler,Organic Compost,2023-05-24
+F_031,2024,Drip,Synthetic NPK,2024-04-14
+F_244,2023,Rainfed,Synthetic NPK,2022-10-25
+F_153,2021,Rainfed,Synthetic NPK,2020-10-13
+F_036,2024,Rainfed,Synthetic NPK,2024-03-14
+F_247,2022,Drip,Synthetic NPK,2021-10-23
+F_050,2022,Rainfed,Organic Compost,2022-05-23
+F_153,2022,Rainfed,Synthetic NPK,2021-10-25
+F_070,2024,Sprinkler,Minimal/None,2024-05-01
+F_074,2022,Drip,Biofertilizer,2022-03-26
+F_101,2021,Rainfed,Synthetic NPK,2021-05-17
+F_031,2023,Drip,Synthetic NPK,2023-04-03
+F_046,2024,Sprinkler,Organic Compost,2024-03-06
+F_051,2023,Drip,Synthetic NPK,2023-03-19
+F_110,2023,Rainfed,Organic Compost,2023-05-09
+F_062,2023,Sprinkler,Minimal/None,2023-05-19
+F_104,2024,Drip,Synthetic NPK,2024-04-02
+F_204,2023,Sprinkler,Organic Compost,2023-04-17
+F_197,2023,Rainfed,Synthetic NPK,2023-04-10
+F_233,2021,Sprinkler,Synthetic NPK,2021-04-15
+F_198,2022,Flood,Synthetic NPK,2022-03-18
+F_228,2022,Rainfed,Organic Compost,2022-05-19
+F_033,2022,Rainfed,Minimal/None,2021-10-05
+F_160,2022,Flood,Synthetic NPK,2022-03-14
+F_101,2023,Flood,Synthetic NPK,2023-05-17
+F_187,2022,Sprinkler,Organic Compost,2022-03-22
+F_228,2021,Rainfed,Synthetic NPK,2021-05-17
+F_184,2024,Drip,Synthetic NPK,2024-04-25
+F_234,2024,Rainfed,Organic Compost,2024-03-05
+F_055,2024,Drip,Organic Compost,2024-04-25
+F_161,2022,Rainfed,Biofertilizer,2021-10-24
+F_235,2022,Flood,Organic Compost,2021-10-19
+F_194,2022,Sprinkler,Minimal/None,2022-04-07
+F_208,2021,Rainfed,Organic Compost,2021-04-01
+F_237,2022,Sprinkler,Minimal/None,2021-10-22
+F_157,2021,Flood,Synthetic NPK,2021-04-09
+F_208,2023,Sprinkler,Organic Compost,2023-04-26
+F_196,2022,Rainfed,Synthetic NPK,2021-10-19
+F_097,2023,Flood,Synthetic NPK,2023-04-10
+F_250,2024,Flood,Synthetic NPK,2024-03-26
+F_128,2022,Flood,Minimal/None,2022-04-01
+F_067,2024,Flood,Synthetic NPK,2023-10-20
+F_211,2022,Sprinkler,Biofertilizer,2022-04-20
+F_111,2022,Sprinkler,Biofertilizer,2022-05-21
+F_125,2021,Flood,Synthetic NPK,2020-10-03
+F_029,2021,Sprinkler,Synthetic NPK,2021-04-26
+F_173,2024,Sprinkler,Synthetic NPK,2024-04-03
+F_059,2021,Flood,Synthetic NPK,2021-05-03
+F_223,2024,Drip,Synthetic NPK,2024-05-20
+F_152,2024,Flood,Synthetic NPK,2023-10-01
+F_168,2024,Rainfed,Organic Compost,2024-05-18
+F_094,2022,Sprinkler,Organic Compost,2022-04-22
+F_227,2024,Drip,Synthetic NPK,2024-05-10
+F_217,2021,Rainfed,Biofertilizer,2021-05-15
+F_059,2022,Sprinkler,Synthetic NPK,2022-05-06
+F_202,2023,Rainfed,Synthetic NPK,2023-05-13
+F_170,2021,Sprinkler,Organic Compost,2021-04-04
+F_080,2022,Flood,Biofertilizer,2022-05-26
+F_163,2021,Sprinkler,Synthetic NPK,2021-03-22
+F_103,2023,Flood,Biofertilizer,2023-05-20
+F_231,2021,Sprinkler,Synthetic NPK,2021-04-15
+F_178,2022,Flood,Organic Compost,2021-10-19
+F_090,2023,Sprinkler,Organic Compost,2023-04-26
+F_065,2023,Drip,Biofertilizer,2022-10-17
+F_187,2021,Sprinkler,Synthetic NPK,2021-03-22
+F_157,2024,Flood,Synthetic NPK,2024-04-12
+F_159,2021,Rainfed,Organic Compost,2020-10-11
+F_071,2023,Drip,Biofertilizer,2023-03-18
+F_095,2021,Sprinkler,Synthetic NPK,2021-04-05
+F_097,2021,Sprinkler,Biofertilizer,2021-04-03
+F_057,2021,Sprinkler,Synthetic NPK,2021-05-11
+F_245,2024,Rainfed,Biofertilizer,2024-05-22
+F_210,2021,Sprinkler,Synthetic NPK,2021-05-04
+F_119,2021,Drip,Synthetic NPK,2021-04-11
+F_087,2024,Flood,Biofertilizer,2024-04-26
+F_127,2022,Drip,Synthetic NPK,2022-03-11
+F_160,2024,Sprinkler,Organic Compost,2024-03-13
+F_220,2021,Drip,Organic Compost,2021-04-16
+F_200,2022,Drip,Synthetic NPK,2022-03-02
+F_239,2021,Flood,Synthetic NPK,2021-03-20
+F_232,2024,Drip,Synthetic NPK,2024-04-10
+F_155,2024,Sprinkler,Synthetic NPK,2024-03-17
+F_220,2022,Flood,Synthetic NPK,2022-04-24
+F_207,2022,Rainfed,Organic Compost,2022-05-23
+F_162,2022,Flood,Synthetic NPK,2022-03-21
+F_218,2021,Rainfed,Organic Compost,2021-03-16
+F_140,2021,Flood,Synthetic NPK,2021-03-27
+F_247,2021,Sprinkler,Synthetic NPK,2020-10-14
+F_145,2022,Rainfed,Synthetic NPK,2022-05-21
+F_199,2024,Drip,Synthetic NPK,2024-04-20
+F_022,2022,Rainfed,Synthetic NPK,2021-10-17
+F_061,2023,Sprinkler,Organic Compost,2023-05-15
+F_175,2023,Sprinkler,Biofertilizer,2023-03-23
+F_040,2024,Sprinkler,Synthetic NPK,2024-05-20
+F_132,2021,Flood,Synthetic NPK,2021-05-03
+F_009,2024,Rainfed,Organic Compost,2024-03-08
+F_136,2021,Sprinkler,Organic Compost,2020-10-11
+F_043,2023,Rainfed,Synthetic NPK,2023-05-08
+F_164,2023,Rainfed,Organic Compost,2023-04-25
+F_229,2021,Sprinkler,Biofertilizer,2021-04-01
+F_220,2024,Drip,Organic Compost,2024-04-19
+F_218,2022,Drip,Synthetic NPK,2022-03-21
+F_243,2021,Drip,Organic Compost,2021-05-23
+F_184,2022,Rainfed,Synthetic NPK,2022-04-23
+F_024,2024,Drip,Minimal/None,2024-05-12
+F_141,2024,Sprinkler,Organic Compost,2024-05-18
+F_061,2021,Drip,Organic Compost,2021-05-20
+F_186,2023,Sprinkler,Synthetic NPK,2023-03-25
+F_144,2023,Flood,Organic Compost,2023-05-26
+F_173,2023,Rainfed,Synthetic NPK,2023-04-12
+F_116,2021,Sprinkler,Biofertilizer,2021-03-14
+F_139,2022,Sprinkler,Synthetic NPK,2022-05-17
+F_226,2021,Rainfed,Minimal/None,2021-05-06
+F_052,2023,Rainfed,Biofertilizer,2023-04-17
+F_099,2021,Rainfed,Synthetic NPK,2021-05-16
+F_199,2023,Drip,Minimal/None,2023-04-07
+F_100,2022,Sprinkler,Synthetic NPK,2022-05-12
+F_192,2023,Sprinkler,Minimal/None,2023-03-06
+F_218,2023,Flood,Synthetic NPK,2023-03-24
+F_055,2022,Flood,Synthetic NPK,2022-04-27
+F_002,2021,Sprinkler,Synthetic NPK,2021-03-15
+F_193,2021,Flood,Synthetic NPK,2021-03-16
+F_161,2023,Rainfed,Synthetic NPK,2022-10-23
+F_230,2024,Sprinkler,Biofertilizer,2024-04-06
+F_154,2021,Flood,Synthetic NPK,2021-04-20
+F_185,2023,Drip,Synthetic NPK,2022-10-19
+F_137,2023,Rainfed,Synthetic NPK,2023-03-22
+F_182,2022,Sprinkler,Synthetic NPK,2022-05-20
+F_171,2024,Sprinkler,Minimal/None,2024-04-15
+F_025,2023,Sprinkler,Synthetic NPK,2023-04-20
+F_202,2021,Rainfed,Organic Compost,2021-05-27
+F_182,2024,Drip,Synthetic NPK,2024-05-14
+F_144,2022,Rainfed,Organic Compost,2022-05-20
+F_102,2023,Flood,Organic Compost,2023-04-19
+F_126,2023,Rainfed,Synthetic NPK,2022-10-09
+F_012,2024,Drip,Biofertilizer,2024-03-09
+F_009,2021,Rainfed,Biofertilizer,2021-03-06
+F_195,2024,Rainfed,Synthetic NPK,2024-05-14
+F_210,2024,Rainfed,Minimal/None,2024-05-05
+F_051,2021,Drip,Minimal/None,2021-03-15
+F_034,2023,Flood,Biofertilizer,2023-03-04
+F_007,2024,Sprinkler,Synthetic NPK,2023-10-18
+F_226,2023,Rainfed,Organic Compost,2023-05-26
+F_058,2023,Rainfed,Biofertilizer,2023-05-10
+F_123,2022,Flood,Organic Compost,2021-10-12
+F_194,2021,Flood,Biofertilizer,2021-04-22
+F_095,2023,Rainfed,Minimal/None,2023-04-07
+F_073,2021,Rainfed,Synthetic NPK,2020-10-07
+F_105,2023,Drip,Synthetic NPK,2023-05-25
+F_169,2023,Rainfed,Organic Compost,2023-05-25
+F_098,2024,Flood,Synthetic NPK,2024-05-24
+F_149,2021,Drip,Synthetic NPK,2021-05-01
+F_125,2023,Drip,Biofertilizer,2022-10-14
+F_035,2023,Sprinkler,Minimal/None,2023-05-06
+F_016,2023,Drip,Biofertilizer,2023-05-23
+F_118,2024,Flood,Synthetic NPK,2024-05-01
+F_162,2024,Flood,Biofertilizer,2024-03-03
+F_033,2021,Drip,Organic Compost,2020-10-18
+F_110,2024,Rainfed,Minimal/None,2024-05-19
+F_131,2021,Sprinkler,Synthetic NPK,2021-05-25
+F_210,2023,Rainfed,Synthetic NPK,2023-05-01
+F_248,2022,Sprinkler,Synthetic NPK,2022-03-08
+F_017,2021,Rainfed,Biofertilizer,2020-10-04
+F_204,2021,Drip,Synthetic NPK,2021-04-15
+F_004,2023,Sprinkler,Synthetic NPK,2023-04-05
+F_040,2021,Sprinkler,Organic Compost,2021-05-05
+F_011,2021,Flood,Organic Compost,2020-10-17
+F_124,2021,Rainfed,Synthetic NPK,2020-10-06
+F_095,2024,Flood,Biofertilizer,2024-04-24
+F_047,2024,Sprinkler,Synthetic NPK,2024-05-21
+F_191,2024,Drip,Biofertilizer,2024-05-20
+F_055,2021,Flood,Organic Compost,2021-04-08
+F_198,2024,Drip,Synthetic NPK,2024-03-03
+F_014,2021,Rainfed,Synthetic NPK,2021-05-16
+F_220,2023,Flood,Synthetic NPK,2023-04-22
+F_085,2022,Rainfed,Synthetic NPK,2021-10-24
+F_188,2021,Sprinkler,Organic Compost,2021-04-09
+F_180,2024,Sprinkler,Synthetic NPK,2024-05-13
+F_182,2021,Flood,Synthetic NPK,2021-05-23
+F_074,2024,Sprinkler,Biofertilizer,2024-03-09
+F_176,2022,Rainfed,Synthetic NPK,2021-10-18
+F_063,2024,Drip,Synthetic NPK,2024-04-14
+F_182,2023,Sprinkler,Biofertilizer,2023-05-16
+F_116,2022,Drip,Synthetic NPK,2022-03-08
+F_114,2024,Sprinkler,Biofertilizer,2024-04-21
+F_102,2024,Sprinkler,Synthetic NPK,2024-04-24
+F_204,2024,Flood,Synthetic NPK,2024-04-18
+F_216,2023,Sprinkler,Synthetic NPK,2022-10-22
+F_068,2022,Drip,Synthetic NPK,2022-03-21
+F_051,2022,Drip,Synthetic NPK,2022-03-15
+F_041,2022,Sprinkler,Synthetic NPK,2021-10-23
+F_139,2024,Flood,Biofertilizer,2024-05-13
+F_183,2022,Flood,Biofertilizer,2022-05-15
+F_101,2022,Flood,Biofertilizer,2022-05-26
+F_176,2023,Rainfed,Biofertilizer,2022-10-09
+F_120,2021,Sprinkler,Biofertilizer,2021-04-23
+F_206,2022,Drip,Minimal/None,2021-10-16
+F_193,2024,Sprinkler,Synthetic NPK,2024-03-04
+F_027,2022,Rainfed,Organic Compost,2021-10-06
+F_142,2022,Drip,Synthetic NPK,2022-05-08
+F_098,2022,Flood,Synthetic NPK,2022-05-21
+F_001,2022,Rainfed,Biofertilizer,2022-05-19
+F_241,2022,Sprinkler,Organic Compost,2022-03-16
+F_081,2023,Sprinkler,Synthetic NPK,2023-03-18
+F_141,2022,Drip,Biofertilizer,2022-05-03
+F_233,2024,Sprinkler,Synthetic NPK,2024-04-16
+F_021,2021,Sprinkler,Minimal/None,2021-03-02
+F_052,2022,Sprinkler,Organic Compost,2022-04-10
+F_009,2023,Flood,Synthetic NPK,2023-03-25
+F_236,2023,Rainfed,Synthetic NPK,2023-04-04
+F_194,2024,Drip,Synthetic NPK,2024-04-18
+F_128,2021,Drip,Organic Compost,2021-04-21
+F_107,2024,Drip,Synthetic NPK,2024-05-01
+F_114,2023,Drip,Synthetic NPK,2023-04-15
+F_092,2023,Rainfed,Minimal/None,2023-03-15
+F_023,2024,Flood,Organic Compost,2023-10-15
+F_085,2024,Rainfed,Synthetic NPK,2023-10-15
+F_225,2022,Rainfed,Biofertilizer,2021-10-07
+F_142,2021,Flood,Organic Compost,2021-05-26
+F_087,2022,Flood,Synthetic NPK,2022-04-27
+F_195,2021,Flood,Synthetic NPK,2021-05-01
+F_061,2022,Rainfed,Organic Compost,2022-05-04
+F_004,2022,Drip,Synthetic NPK,2022-04-12
+F_079,2024,Drip,Synthetic NPK,2023-10-18
+F_151,2021,Drip,Synthetic NPK,2021-05-06
+F_097,2024,Sprinkler,Synthetic NPK,2024-04-09
+F_069,2022,Rainfed,Synthetic NPK,2021-10-02
+F_042,2023,Sprinkler,Organic Compost,2023-03-07
+F_211,2021,Rainfed,Biofertilizer,2021-04-18
+F_052,2023,Sprinkler,Biofertilizer,2023-04-17
+F_162,2023,Rainfed,Synthetic NPK,2023-03-01
+F_205,2023,Drip,Synthetic NPK,2023-04-25
+F_122,2021,Sprinkler,Synthetic NPK,2021-04-12
+F_137,2024,Drip,Biofertilizer,2024-03-19
+F_127,2021,Sprinkler,Synthetic NPK,2021-03-07
+F_208,2024,Sprinkler,Organic Compost,2024-04-26
+F_061,2024,Rainfed,Synthetic NPK,2024-05-25
+F_142,2023,Rainfed,Synthetic NPK,2023-05-04
+F_219,2024,Drip,Organic Compost,2024-04-21
+F_141,2023,Sprinkler,Minimal/None,2023-05-04
+F_245,2023,Drip,Synthetic NPK,2023-05-13
+F_172,2023,Flood,Synthetic NPK,2023-05-14
+F_240,2022,Drip,Organic Compost,2021-10-04
+F_048,2022,Sprinkler,Organic Compost,2022-04-25
+F_196,2023,Sprinkler,Minimal/None,2022-10-15
+F_244,2024,Sprinkler,Synthetic NPK,2023-10-24
+F_175,2024,Drip,Organic Compost,2024-03-04
+F_119,2024,Drip,Minimal/None,2024-04-14
+F_171,2022,Drip,Synthetic NPK,2022-04-20
+F_128,2023,Flood,Biofertilizer,2023-04-26
+F_015,2023,Rainfed,Biofertilizer,2023-05-16
+F_119,2023,Flood,Biofertilizer,2023-04-04
+F_141,2021,Drip,Organic Compost,2021-05-19
+F_215,2021,Sprinkler,Biofertilizer,2021-04-02
+F_187,2024,Flood,Synthetic NPK,2024-03-10
+F_064,2021,Sprinkler,Synthetic NPK,2021-05-13
+F_006,2022,Drip,Synthetic NPK,2022-05-03
+F_079,2022,Rainfed,Synthetic NPK,2021-10-16
+F_115,2024,Drip,Synthetic NPK,2024-04-23
+F_041,2021,Rainfed,Synthetic NPK,2020-10-05
+F_070,2021,Drip,Synthetic NPK,2021-05-24
+F_239,2024,Rainfed,Biofertilizer,2024-03-24
+F_048,2024,Drip,Organic Compost,2024-04-03
+F_097,2022,Sprinkler,Biofertilizer,2022-04-10
+F_202,2022,Drip,Organic Compost,2022-05-25
+F_104,2022,Drip,Synthetic NPK,2022-04-14
+F_123,2024,Flood,Organic Compost,2023-10-09
+F_086,2024,Rainfed,Synthetic NPK,2024-05-10
+F_193,2022,Rainfed,Synthetic NPK,2022-03-03
+F_078,2021,Sprinkler,Synthetic NPK,2020-10-08
+F_166,2022,Drip,Synthetic NPK,2022-04-07
+F_033,2023,Drip,Synthetic NPK,2022-10-03
+F_166,2024,Rainfed,Biofertilizer,2024-04-13
+F_218,2024,Flood,Organic Compost,2024-03-05
+F_025,2024,Drip,Organic Compost,2024-04-25
+F_094,2021,Drip,Synthetic NPK,2021-04-03
+F_022,2024,Sprinkler,Synthetic NPK,2023-10-20
+F_115,2023,Rainfed,Organic Compost,2023-04-19
+F_083,2023,Rainfed,Organic Compost,2022-10-14
+F_054,2023,Flood,Organic Compost,2023-03-09
+F_117,2023,Flood,Minimal/None,2023-04-09
+F_031,2022,Flood,Synthetic NPK,2022-04-06
+F_154,2023,Sprinkler,Synthetic NPK,2023-04-22
+F_006,2021,Sprinkler,Synthetic NPK,2021-05-23
+F_176,2021,Rainfed,Minimal/None,2020-10-07
+F_018,2024,Drip,Minimal/None,2024-04-05
+F_027,2023,Drip,Synthetic NPK,2022-10-19
+F_068,2023,Drip,Biofertilizer,2023-03-04
+F_216,2021,Drip,Synthetic NPK,2020-10-04
