@@ -1,0 +1,11 @@
+{
+  "model_architecture": "RandomForestRegressor",
+  "train_r2": 0.9764262668599013,
+  "train_rmse": 344.3159498598129,
+  "train_mae": 265.7015995714565,
+  "test_r2": 0.868935325923076,
+  "test_rmse": 741.8016201398974,
+  "test_mae": 589.4669977523811,
+  "test_n_samples": 199,
+  "test_n_fields": 50
+}

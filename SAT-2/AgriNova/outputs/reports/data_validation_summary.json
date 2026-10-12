@@ -1,0 +1,157 @@
+{
+  "fields": {
+    "file": "fields.csv",
+    "rows": 250,
+    "cols": 4,
+    "columns": [
+      "field_id",
+      "region",
+      "area_hectares",
+      "crop"
+    ],
+    "dtypes": {
+      "field_id": "str",
+      "region": "str",
+      "area_hectares": "float64",
+      "crop": "str"
+    },
+    "exact_duplicates": 0,
+    "key_duplicates": 0,
+    "missing_cells": 0,
+    "missing_by_column": {}
+  },
+  "soil": {
+    "file": "soil.csv",
+    "rows": 894,
+    "cols": 7,
+    "columns": [
+      "field_id",
+      "season",
+      "soil_ph",
+      "soil_moisture_pct",
+      "nitrogen_ppm",
+      "phosphorus_ppm",
+      "potassium_ppm"
+    ],
+    "dtypes": {
+      "field_id": "str",
+      "season": "int64",
+      "soil_ph": "float64",
+      "soil_moisture_pct": "float64",
+      "nitrogen_ppm": "float64",
+      "phosphorus_ppm": "float64",
+      "potassium_ppm": "float64"
+    },
+    "exact_duplicates": 12,
+    "key_duplicates": 12,
+    "missing_cells": 92,
+    "missing_by_column": {
+      "soil_moisture_pct": {
+        "count": 56,
+        "pct": 6.26
+      },
+      "phosphorus_ppm": {
+        "count": 36,
+        "pct": 4.03
+      }
+    }
+  },
+  "weather": {
+    "file": "weather.csv",
+    "rows": 7300,
+    "cols": 9,
+    "columns": [
+      "weather_record_id",
+      "region",
+      "date",
+      "season",
+      "rainfall_mm",
+      "temperature_mean_c",
+      "temperature_min_c",
+      "temperature_max_c",
+      "humidity_pct"
+    ],
+    "dtypes": {
+      "weather_record_id": "str",
+      "region": "str",
+      "date": "str",
+      "season": "int64",
+      "rainfall_mm": "float64",
+      "temperature_mean_c": "float64",
+      "temperature_min_c": "float64",
+      "temperature_max_c": "float64",
+      "humidity_pct": "float64"
+    },
+    "exact_duplicates": 0,
+    "key_duplicates": 7296,
+    "missing_cells": 1310,
+    "missing_by_column": {
+      "rainfall_mm": {
+        "count": 262,
+        "pct": 3.59
+      },
+      "temperature_mean_c": {
+        "count": 262,
+        "pct": 3.59
+      },
+      "temperature_min_c": {
+        "count": 262,
+        "pct": 3.59
+      },
+      "temperature_max_c": {
+        "count": 262,
+        "pct": 3.59
+      },
+      "humidity_pct": {
+        "count": 262,
+        "pct": 3.59
+      }
+    }
+  },
+  "practices": {
+    "file": "practices.csv",
+    "rows": 1025,
+    "cols": 5,
+    "columns": [
+      "field_id",
+      "season",
+      "irrigation_type",
+      "fertilizer_type",
+      "sowing_date"
+    ],
+    "dtypes": {
+      "field_id": "str",
+      "season": "int64",
+      "irrigation_type": "str",
+      "fertilizer_type": "str",
+      "sowing_date": "str"
+    },
+    "exact_duplicates": 11,
+    "key_duplicates": 25,
+    "missing_cells": 0,
+    "missing_by_column": {}
+  },
+  "harvest": {
+    "file": "harvest.csv",
+    "rows": 1015,
+    "cols": 5,
+    "columns": [
+      "field_id",
+      "season",
+      "harvest_date",
+      "yield_kg_per_ha",
+      "quality_grade"
+    ],
+    "dtypes": {
+      "field_id": "str",
+      "season": "int64",
+      "harvest_date": "str",
+      "yield_kg_per_ha": "float64",
+      "quality_grade": "str"
+    },
+    "exact_duplicates": 15,
+    "key_duplicates": 15,
+    "missing_cells": 0,
+    "missing_by_column": {}
+  }
+}

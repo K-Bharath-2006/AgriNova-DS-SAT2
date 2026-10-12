@@ -1,0 +1,37 @@
+{
+  "variables_evaluated": [
+    "seasonal_rainfall_mm",
+    "mean_temperature_c",
+    "temperature_range_c",
+    "mean_humidity_pct",
+    "soil_ph",
+    "soil_moisture_pct",
+    "nitrogen_ppm",
+    "phosphorus_ppm",
+    "potassium_ppm"
+  ],
+  "n_components": 9,
+  "explained_variance_ratio": [
+    0.5208,
+    0.1246,
+    0.112,
+    0.0953,
+    0.0597,
+    0.0484,
+    0.0251,
+    0.0114,
+    0.0027
+  ],
+  "cumulative_variance_ratio": [
+    0.5208,
+    0.6455,
+    0.7574,
+    0.8528,
+    0.9125,
+    0.9609,
+    0.986,
+    0.9973,
+    1.0
+  ],
+  "recommendation": "While PC1-PC3 explain ~65% of environmental variance, raw engineered variables (e.g., pH deviation, rainfall) are far more interpretable for agronomic decision-making. Therefore, non-reduced features are retained for primary predictive modeling."
+}
